@@ -1,0 +1,21 @@
+Dark Mode Colors How-to Article
+
+https://blog.prototypr.io/how-to-design-a-dark-theme-for-your-android-app-3daeb264637
+
+Mozilla - CSS Variables
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties
+
+https://www.heropatterns.com/ Hero Patterns
+
+
+
+
+https://fonts.google.com/ Google Fonts
+
+https://undraw.co/illustrations Undraw Illustrations
+
+https://fontawesome.com/icons?d=gallery&q=close&m=free FontAwesome Icons
+
+How to Toggle Switch
+https://www.w3schools.com/howto/howto_css_switch.asp
